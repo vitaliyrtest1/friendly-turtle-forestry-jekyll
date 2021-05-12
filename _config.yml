@@ -97,3 +97,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://friendly-turtle-forestry-jekyll-bd472.netlify.app'
