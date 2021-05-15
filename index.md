@@ -113,6 +113,10 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/1.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 ---
